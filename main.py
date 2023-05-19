@@ -3,7 +3,7 @@ import os
 
 from aiogram import Bot, Dispatcher
 from aiogram.utils.executor import start_webhook
-from aiogram.utils import executor
+
 
 
 # API_TOKEN = API_TOKEN
